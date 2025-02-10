@@ -71,3 +71,7 @@ Civil has ultimate save worth marry.
 Civil has most general and most level save worth marry arch.
 
 Civil has ultimate save worth marry arch.
+
+Civil has most general and most level monitor.
+
+Civil has ultimate monitor.
