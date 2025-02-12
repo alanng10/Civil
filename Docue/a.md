@@ -127,3 +127,15 @@ Civil has ultimate ideal arch.
 Civil has most general and most level ideal arch worth.
 
 Civil has ultimate ideal arch worth.
+
+Civil has most general and most level ideal value.
+
+Civil has ultimate ideal value.
+
+Civil has most general and most level ideal value arch.
+
+Civil has ultimate ideal value arch.
+
+Civil has most general and most level ideal value arch worth.
+
+Civil has ultimate ideal value arch worth.
