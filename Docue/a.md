@@ -191,3 +191,15 @@ Civil has ultimate ideal partner benefit arch.
 Civil has most general and most level ideal partner benefit arch worth.
 
 Civil has ultimate ideal partner benefit arch worth.
+
+Civil has most general and most level ideal partner benefit share.
+
+Civil has ultimate ideal partner benefit share.
+
+Civil has most general and most level ideal partner benefit share arch.
+
+Civil has ultimate ideal partner benefit share arch.
+
+Civil has most general and most level ideal partner benefit share arch worth.
+
+Civil has ultimate ideal partner benefit share arch worth.
