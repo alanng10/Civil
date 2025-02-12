@@ -103,3 +103,11 @@ Civil has ultimate monitor value arch.
 Civil has most general and most level monitor value arch worth.
 
 Civil has ultimate monitor value arch worth.
+
+Civil has most general and most level ideal.
+
+Civil has ultimate ideal.
+
+Civil has most general and most level ideal base.
+
+Civil has ultimate ideal base.
