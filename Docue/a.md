@@ -151,3 +151,19 @@ Civil has ultimate ideal partner arch.
 Civil has most general and most level ideal partner arch worth.
 
 Civil has ultimate ideal partner arch worth.
+
+Civil has most general and most level ideal partner arch value.
+
+Civil has ultimate ideal partner arch value.
+
+Civil has most general and most level ideal partner arch base.
+
+Civil has ultimate ideal partner arch base.
+
+Civil has most general and most level ideal partner arch base value.
+
+Civil has ultimate ideal partner arch base value.
+
+Civil has most general and most level ideal partner arch base worth.
+
+Civil has ultimate ideal partner arch base worth.
