@@ -240,6 +240,10 @@ Civil has most general and most level ideal partner worth arch.
 
 Civil has park ideal partner worth arch.
 
+Civil has most general and most level ideal partner worth arch worth.
+
+Civil has park ideal partner worth arch worth.
+
 Civil has most general and most level ideal manage.
 
 Civil has park ideal manage.
