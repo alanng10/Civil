@@ -54,18 +54,6 @@ Civil has most general and most level marry arch worth.
 
 Civil has park marry arch worth.
 
-Civil has most general and most level marry worth.
-
-Civil has park marry worth.
-
-Civil has most general and most level marry worth arch.
-
-Civil has park marry worth arch.
-
-Civil has most general and most level marry worth arch worth.
-
-Civil has park marry worth arch worth.
-
 Civil has most general and most level do arch.
 
 Civil has park do arch.
@@ -73,14 +61,6 @@ Civil has park do arch.
 Civil has most general and most level do marry.
 
 Civil has park do marry.
-
-Civil has most general and most level do marry arch.
-
-Civil has park do marry arch.
-
-Civil has most general and most level do marry arch worth.
-
-Civil has park do marry arch worth.
 
 Civil has most general and most level do worth arch.
 
