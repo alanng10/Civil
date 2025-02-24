@@ -196,6 +196,14 @@ Civil has most general and most level ideal partner arch base value.
 
 Civil has park ideal partner arch base value.
 
+Civil has most general and most level ideal partner arch base value arch.
+
+Civil has park ideal partner arch base value arch.
+
+Civil has most general and most level ideal partner arch base value arch worth.
+
+Civil has park ideal partner arch base value arch worth.
+
 Civil has most general and most level ideal partner arch base worth.
 
 Civil has park ideal partner arch base worth.
