@@ -36,8 +36,6 @@ Civil has most general and most level land.
 
 Civil has park land.
 
-Civil has park land marry.
-
 Civil has most general and most level share.
 
 Civil has park share.
