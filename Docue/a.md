@@ -1,20 +1,22 @@
 # Civil
 
-Civil has park do.
+Civil has park worth.
+
+Civil has park value.
+
+Civil has park benefit.
+
+Civil has park marry.
 
 Civil has park arch.
 
-Civil has park worth.
+Civil has park arch worth.
+
+Civil has park do.
 
 Civil has park land.
 
 Civil has park share.
-
-Civil has park marry.
-
-Civil has park marry arch.
-
-Civil has park marry arch worth.
 
 Civil has park do arch.
 
