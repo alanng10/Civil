@@ -24,7 +24,7 @@ Civil has park do value.
 
 Civil has park do benefit.
 
-Civil has park do marry. 
+Civil has park do marry.
 
 Civil has park do arch.
 
