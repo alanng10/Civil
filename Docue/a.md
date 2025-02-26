@@ -52,7 +52,7 @@ Civil has park monitor arch worth.
 
 Civil has park monitor worth.
 
-Civil has park monitor value. 
+Civil has park monitor value.
 
 Civil has park monitor benefit.
 
