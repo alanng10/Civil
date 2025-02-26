@@ -12,6 +12,12 @@ Civil has park arch.
 
 Civil has park arch worth.
 
+Civil has park kind.
+
+Civil has park kind arch.
+
+Civil has park kind arch worth.
+
 Civil has park land.
 
 Civil has park share.
