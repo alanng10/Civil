@@ -1,54 +1,18 @@
 # Civil
 
-Civil has most general and most level do.
-
 Civil has park do.
-
-Civil has most general and most level arch.
 
 Civil has park arch.
 
-Civil has most general and most level worth.
-
 Civil has park worth.
-
-Civil has most general and most level worth arch.
-
-Civil has park worth arch.
-
-Civil has most general and most level worth arch worth.
-
-Civil has park worth arch worth.
-
-Civil has most general and most level worth value.
-
-Civil has park worth value.
-
-Civil has most general and most level worth value arch.
-
-Civil has park worth value arch.
-
-Civil has most general and most level worth value arch worth.
-
-Civil has park worth value arch worth.
-
-Civil has most general and most level land.
 
 Civil has park land.
 
-Civil has most general and most level share.
-
 Civil has park share.
-
-Civil has most general and most level marry.
 
 Civil has park marry.
 
-Civil has most general and most level marry arch.
-
 Civil has park marry arch.
-
-Civil has most general and most level marry arch worth.
 
 Civil has park marry arch worth.
 
