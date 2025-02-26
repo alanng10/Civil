@@ -34,71 +34,33 @@ Civil has park save worth.
 
 Civil has park save worth marry.
 
-Civil has most general and most level monitor.
-
 Civil has park monitor.
-
-Civil has most general and most level monitor arch.
 
 Civil has park monitor arch.
 
-Civil has most general and most level monitor arch worth.
-
 Civil has park monitor arch worth.
-
-Civil has most general and most level monitor value arch.
 
 Civil has park monitor value arch.
 
-Civil has most general and most level monitor value arch worth.
-
 Civil has park monitor value arch worth.
-
-Civil has most general and most level ideal.
 
 Civil has park ideal.
 
-Civil has most general and most level ideal base.
-
 Civil has park ideal base.
-
-Civil has most general and most level ideal base arch.
 
 Civil has park ideal base arch.
 
-Civil has most general and most level ideal base arch worth.
-
 Civil has park ideal base arch worth.
-
-Civil has most general and most level ideal arch.
 
 Civil has park ideal arch.
 
-Civil has most general and most level ideal arch worth.
-
 Civil has park ideal arch worth.
-
-Civil has most general and most level ideal value.
 
 Civil has park ideal value.
 
-Civil has most general and most level ideal value arch.
-
-Civil has park ideal value arch.
-
-Civil has most general and most level ideal value arch worth.
-
-Civil has park ideal value arch worth.
-
-Civil has most general and most level ideal partner.
-
 Civil has park ideal partner.
 
-Civil has most general and most level ideal partner arch.
-
 Civil has park ideal partner arch.
-
-Civil has most general and most level ideal partner arch worth.
 
 Civil has park ideal partner arch worth.
 
