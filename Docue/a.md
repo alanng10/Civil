@@ -32,19 +32,19 @@ Civil has park kind arch worth.
 
 Civil has park share.
 
-Civil has park do. 
+Civil has park do.
 
-Civil has park do worth. 
+Civil has park do worth.
 
-Civil has park do value. 
+Civil has park do value.
 
-Civil has park do benefit. 
+Civil has park do benefit.
 
-Civil has park do marry. 
+Civil has park do marry.
 
-Civil has park do arch. 
+Civil has park do arch.
 
-Civil has park do arch worth. 
+Civil has park do arch worth.
 
 Civil has park save.
 
