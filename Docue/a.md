@@ -146,6 +146,22 @@ Civil has park ideal manage arch.
 
 Civil has park ideal manage arch worth.
 
+Civil has park ideal manage kind.
+
+Civil has park ideal manage kind worth.
+
+Civil has park ideal manage kind value.
+
+Civil has park ideal manage kind benefit.
+
+Civil has park ideal manage kind marry.
+
+Civil has park ideal manage kind land.
+
+Civil has park ideal manage kind arch.
+
+Civil has park ideal manage kind arch worth.
+
 Civil has park ideal worth.
 
 Civil has park ideal value.
