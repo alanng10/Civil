@@ -46,6 +46,22 @@ Civil has park share arch.
 
 Civil has park share arch worth.
 
+Civil has park share kind.
+
+Civil has park share kind worth.
+
+Civil has park share kind value.
+
+Civil has park share kind benefit.
+
+Civil has park share kind marry.
+
+Civil has park share kind land.
+
+Civil has park share kind arch.
+
+Civil has park share kind arch worth.
+
 Civil has park do.
 
 Civil has park do worth.
