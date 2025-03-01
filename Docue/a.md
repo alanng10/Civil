@@ -110,15 +110,15 @@ Civil has park save kind arch.
 
 Civil has park save kind arch worth.
 
-Civil has park monitor.
+Civil has park monitor. 
 
-Civil has park monitor worth.
+Civil has park monitor worth. 
 
-Civil has park monitor value.
+Civil has park monitor value. 
 
-Civil has park monitor benefit.
+Civil has park monitor benefit. 
 
-Civil has park monitor marry.
+Civil has park monitor marry. 
 
 Civil has park monitor land.
 
