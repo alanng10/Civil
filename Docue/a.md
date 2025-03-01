@@ -80,10 +80,6 @@ Civil has park do kind arch worth.
 
 Civil has park save.
 
-Civil has park save arch.
-
-Civil has park save arch worth.
-
 Civil has park save worth.
 
 Civil has park save value.
@@ -91,6 +87,12 @@ Civil has park save value.
 Civil has park save benefit.
 
 Civil has park save marry.
+
+Civil has park save land.
+
+Civil has park save arch.
+
+Civil has park save arch worth.
 
 Civil has park save kind.
 
