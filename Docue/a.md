@@ -112,10 +112,6 @@ Civil has park save kind arch worth.
 
 Civil has park monitor.
 
-Civil has park monitor arch.
-
-Civil has park monitor arch worth.
-
 Civil has park monitor worth.
 
 Civil has park monitor value.
@@ -123,6 +119,28 @@ Civil has park monitor value.
 Civil has park monitor benefit.
 
 Civil has park monitor marry.
+
+Civil has park monitor land.
+
+Civil has park monitor arch.
+
+Civil has park monitor arch worth.
+
+Civil has park monitor kind.
+
+Civil has park monitor kind worth.
+
+Civil has park monitor kind value.
+
+Civil has park monitor kind benefit.
+
+Civil has park monitor kind marry.
+
+Civil has park monitor kind land.
+
+Civil has park monitor kind arch.
+
+Civil has park monitor kind arch worth.
 
 Civil has park ideal.
 
