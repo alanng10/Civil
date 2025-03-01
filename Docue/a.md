@@ -42,9 +42,27 @@ Civil has park do benefit.
 
 Civil has park do marry.
 
+Civil has park do land.
+
 Civil has park do arch.
 
 Civil has park do arch worth.
+
+Civil has park do kind.
+
+Civil has park do kind worth.
+
+Civil has park do kind value.
+
+Civil has park do kind benefit.
+
+Civil has park do kind marry.
+
+Civil has park do kind land.
+
+Civil has park do kind arch.
+
+Civil has park do kind arch worth.
 
 Civil has park save.
 
