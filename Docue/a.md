@@ -8,17 +8,27 @@ Civil has park benefit.
 
 Civil has park marry.
 
+Civil has park land.
+
 Civil has park arch.
 
 Civil has park arch worth.
 
 Civil has park kind.
 
+Civil has park kind worth.
+
+Civil has park kind value.
+
+Civil has park kind benefit.
+
+Civil has park kind marry.
+
+Civil has park kind land.
+
 Civil has park kind arch.
 
 Civil has park kind arch worth.
-
-Civil has park land.
 
 Civil has park share.
 
@@ -78,10 +88,6 @@ Civil has park ideal base arch.
 
 Civil has park ideal base arch worth.
 
-Civil has park ideal arch.
-
-Civil has park ideal arch worth.
-
 Civil has park ideal partner.
 
 Civil has park ideal partner arch.
@@ -139,3 +145,9 @@ Civil has park ideal value.
 Civil has park ideal benefit.
 
 Civil has park ideal marry.
+
+Civil has park ideal land.
+
+Civil has park ideal arch.
+
+Civil has park ideal arch worth.
