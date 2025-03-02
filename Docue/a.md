@@ -32,53 +32,53 @@ Civil has park kind arch.
 
 Civil has park kind arch worth.
 
-Civil has park class.
+Civil has park class. 
 
-Civil has park class worth.
+Civil has park class worth. 
 
-Civil has park class value.
+Civil has park class value. 
 
-Civil has park class benefit.
+Civil has park class benefit. 
 
-Civil has park class marry.
+Civil has park class marry. 
 
-Civil has park class land.
+Civil has park class land. 
 
-Civil has park class arch.
+Civil has park class arch. 
 
-Civil has park class arch worth.
+Civil has park class arch worth. 
 
-Civil has park class arch value.
+Civil has park class arch value. 
 
-Civil has park class arch benefit.
+Civil has park class arch benefit. 
 
-Civil has park class arch marry.
+Civil has park class arch marry. 
 
-Civil has park class arch land.
+Civil has park class arch land. 
 
-Civil has park class kind.
+Civil has park class kind. 
 
-Civil has park class kind worth.
+Civil has park class kind worth. 
 
-Civil has park class kind value.
+Civil has park class kind value. 
 
-Civil has park class kind benefit.
+Civil has park class kind benefit. 
 
-Civil has park class kind marry.
+Civil has park class kind marry. 
 
-Civil has park class kind land.
+Civil has park class kind land. 
 
-Civil has park class kind arch.
+Civil has park class kind arch. 
 
-Civil has park class kind arch worth.
+Civil has park class kind arch worth. 
 
-Civil has park class kind arch value.
+Civil has park class kind arch value. 
 
-Civil has park class kind arch benefit.
+Civil has park class kind arch benefit. 
 
-Civil has park class kind arch marry.
+Civil has park class kind arch marry. 
 
-Civil has park class kind arch land.
+Civil has park class kind arch land. 
 
 Civil has park share.
 
